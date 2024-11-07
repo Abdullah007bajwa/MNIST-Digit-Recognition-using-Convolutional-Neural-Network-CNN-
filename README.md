@@ -62,8 +62,12 @@ This project helped reinforce concepts of CNNs, such as:
 ## Sample Predictions 📷
 Below are some of the model's predictions on test samples, showing its accuracy in recognizing handwritten digits.
 
-![Sample Prediction](results/sample_prediction_1.png)
-![Sample Prediction](results/sample_prediction_2.png)
+![Sample Prediction](results/Results.png)
+![Sample Prediction](results/Results_1.png)
+![Sample Prediction](results/Results_2.png)
+![Sample Prediction](results/Results_3.png)
+![Sample Prediction](results/Accuracy_Graph.png)
+
 
 ## Future Improvements 🔧
 - **Data Augmentation**: Augmenting images (e.g., rotations, shifts) to improve generalization.
