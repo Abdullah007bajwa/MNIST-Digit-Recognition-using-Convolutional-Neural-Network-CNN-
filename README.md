@@ -66,7 +66,6 @@ Below are some of the model's predictions on test samples, showing its accuracy 
 ![Sample Prediction](results/Results_1.png)
 ![Sample Prediction](results/Results_2.png)
 ![Sample Prediction](results/Results_3.png)
-![Sample Prediction](results/Accuracy_Graph.png)
 
 
 ## Future Improvements 🔧
